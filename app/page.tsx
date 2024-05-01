@@ -120,7 +120,7 @@ function Header() {
           // letterSpacing: "0.01em",
         }}
       >
-        Face Of Christ Follower
+        Face Of Christ Followers
       </div>
       <div
         style={{
